@@ -1,0 +1,33 @@
+{
+  "interval_minutes": "60",
+  "coins": [
+    "SOLUSDT",
+    "BTCUSDT",
+    "ETHUSDT",
+    "SUIUSDT",
+    "BCHUSDT",
+    "FILUSDT",
+    "ADAUSDT",
+    "XRPUSDT",
+    "BNBUSDT",
+    "DOGEUSDT",
+    "ADAUSDT",
+    "LINKUSDT",
+    "AVAXUSDT",
+    "XLMUSDT",
+    "HBARUSDT",
+    "SHIBUSDT",
+    "LTCUSDT",
+    "DOTUSDT",
+    "TIAUSDT",
+    "COMPUSDT",
+    "ETCUSDT",
+    "BERAUSDT",
+    "ONDOUSDT",
+    "AAVEUSDT",
+    "TUSDT",
+    "POLUSDT"
+  ],
+  "rsi_threshold": 30,
+  "check_interval": 60
+}
