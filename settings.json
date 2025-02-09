@@ -1,5 +1,5 @@
 {
-  "interval_minutes": "60",
+  "interval_minutes": "1",
   "coins": [
     "SOLUSDT",
     "BTCUSDT",
@@ -28,6 +28,6 @@
     "TUSDT",
     "POLUSDT"
   ],
-  "rsi_threshold": 30,
-  "check_interval": 60
+  "rsi_threshold": 60,
+  "check_interval": 1
 }
